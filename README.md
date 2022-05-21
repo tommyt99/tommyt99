@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tommyt99
-- 👀 I’m interested in astronomy, physics, and cool engineering stuff.
-- 🌱 I’m currently learning how this whole Github/coding thing works. 
+- 👋 Hi, I’m Tommy Tran.
+- 👀 I like astronomy, physics, and cool engineering stuff.
+- 🌱 I’m completely new to git and github. 
 - 📫 How to reach me ... tommyvtran36@gmail.com
 
 <!---
