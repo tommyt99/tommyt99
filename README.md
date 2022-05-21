@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tommy Tran.
-- 👀 I like astronomy, physics, and cool engineering stuff.
+- 👀 I like astronomy, physics, and cool engineering feats.
 - 🌱 I’m completely new to git and github. 
 - 📫 How to reach me ... tommyvtran36@gmail.com
 
