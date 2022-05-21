@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tommy Tran.
-- 👀 I like astronomy, physics, and cool engineering feats.
-- 🌱 I’m completely new to git and github. 
+- 👀 astronomy, physics, and cool engineering feats.
+- 🌱 Trying to figure out how to help people.
 - 📫 How to reach me ... tommyvtran36@gmail.com
 
 <!---
