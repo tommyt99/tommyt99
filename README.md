@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tommy.
-- 👀 I really like astronomy, physics, and cool engineering stuff.
+- 👀 I really like space, physics, computers and cool engineering stuff.
 - 🌱 Trying to figure out how to help people and do really cool things.
 - 📫 How to reach me ... tommyvtran36@gmail.com
 
