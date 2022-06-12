@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Tommy Tran.
-- 👀 astronomy, physics, and cool engineering feats.
-- 🌱 Trying to figure out how to help people.
+- 👋 Hi, I’m Tommy.
+- 👀 I really like astronomy, physics, and cool engineering stuff.
+- 🌱 Trying to figure out how to help people and do really cool things.
 - 📫 How to reach me ... tommyvtran36@gmail.com
 
 <!---
