@@ -1,4 +1,4 @@
-- 👋 Voynik.ai
+- Voynik.ai, lets do something cool. 
 - 🚀 🛰️ 🪐 🌱 
 
 
