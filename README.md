@@ -1,6 +1,6 @@
 - Voynik.eng 
 - 🚀 🛰️ 🪐 🌱
-- Lets do something special.
+
 
 <!---
 tommyt99/tommyt99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
