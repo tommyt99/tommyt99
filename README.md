@@ -1,4 +1,3 @@
-- Voynik.engineering
 - 🚀 🛰️ 🪐 🌱
 
 
